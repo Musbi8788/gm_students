@@ -1,0 +1,30 @@
+body {
+    background-color: #050800;
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+}
+
+h1, h2, h3 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: brown;
+}
+
+div {
+    background-color: antiquewhite;
+    border-radius: 15px;
+    padding: 20px;
+    margin: 10px;
+}
+
+article {
+    background-color: white;
+    padding: 15px;
+}
+
+
+.hero {
+    background-color: rgb(255, 178, 175);
+    
+}
