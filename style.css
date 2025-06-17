@@ -28,3 +28,7 @@ article {
     background-color: rgb(255, 178, 175);
     
 }
+
+img {
+    border-radius: 10px;
+}
