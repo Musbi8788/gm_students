@@ -8,7 +8,7 @@ body {
 h1, h2, h3 {
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
-    color: brown;
+    color: rgba(255, 40, 0, 75% );
 }
 
 div {
@@ -31,4 +31,5 @@ article {
 
 img {
     border-radius: 10px;
+    border: 5px, double, hsla(89, 50%, 10%, 50%)
 }
