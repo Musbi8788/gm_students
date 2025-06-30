@@ -16,6 +16,11 @@ div {
     border-radius: 15px;
     padding: 20px;
     margin: 10px;
+    box-shadow: 0 0 10px 0 rgb(174, 169, 169);
+}
+
+div:hover{
+    background: linear-gradient(#FFF, rgb(155, 157, 195), #F32);
 }
 
 article {
@@ -32,4 +37,5 @@ article {
 img {
     border-radius: 10px;
     border: 5px, double, hsla(89, 50%, 10%, 50%)
+
 }
